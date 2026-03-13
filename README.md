@@ -6,12 +6,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
 | [0056-merge-intervals](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
+| [0217-contains-duplicate](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
+| [0217-contains-duplicate](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
