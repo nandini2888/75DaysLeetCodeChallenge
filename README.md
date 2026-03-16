@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -13,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
@@ -26,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
