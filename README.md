@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
