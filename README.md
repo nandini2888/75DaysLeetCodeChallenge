@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
