@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
