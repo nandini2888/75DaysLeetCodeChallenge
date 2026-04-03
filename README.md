@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
