@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0402-remove-k-digits](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
