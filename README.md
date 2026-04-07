@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [2069-walking-robot-simulation-ii](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2069-walking-robot-simulation-ii](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 <!---LeetCode Topics End-->
