@@ -191,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
