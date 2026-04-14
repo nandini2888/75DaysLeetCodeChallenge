@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [2463-minimum-total-distance-traveled](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
