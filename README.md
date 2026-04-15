@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Math
 | Problem Name | Difficulty |
