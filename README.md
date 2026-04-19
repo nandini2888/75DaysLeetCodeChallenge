@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
