@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0402-remove-k-digits/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
