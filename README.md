@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
