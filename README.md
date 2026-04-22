@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Math
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nandini2888/75DaysLeetCodeChallenge/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
